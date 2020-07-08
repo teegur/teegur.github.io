@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hi!
-
 ### More Information
 
-Good!
+if you have a question about me, please contact me through email.
 
 ### Contact me
 
