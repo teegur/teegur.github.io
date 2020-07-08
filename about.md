@@ -12,4 +12,4 @@ Good!
 
 ### Contact me
 
-[dolly0920@naver.com]
+[dolly0920@naver.com](mailto:email@domain.com)
